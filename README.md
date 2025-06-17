@@ -1,4 +1,4 @@
-# 💼 Carreira360 — Protótipo de Aplicação para Preparação de Programadores para o Mercado de Trabalho
+# Carreira360 — Protótipo de Aplicação para Preparação de Programadores para o Mercado de Trabalho
 
 Deploy: https://v0-react-job-prep-app.vercel.app/
 
